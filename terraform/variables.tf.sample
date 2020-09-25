@@ -1,0 +1,53 @@
+
+variable aiven_api_token {
+	type = string
+}
+
+variable project {
+	type = string
+}
+
+variable kafka_svc {
+	type = string
+	default = "kafka-slack"
+}
+
+variable kafka_topic {
+	type = string
+	default = "client.msg"
+}
+
+variable kafka_es_conn {
+	type = string
+	default = "kafka-es-sink"
+}
+
+variable pg_svc {
+	type = string
+	default = "pg-slack"
+}
+
+variable pg_user {
+	type = string
+	default = "slacker"
+}
+
+variable es_svc {
+	type = string
+	default = "es-slacker"
+}
+
+variable redis_svc {
+	type = string
+	default = "redis-slacker"
+}
+
+variable m3_svc {
+	type = string
+	default = "m3-slacker"
+}
+
+variable influx_svc {
+	type = string
+	default = "influx-slacker"
+}

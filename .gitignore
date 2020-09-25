@@ -1,0 +1,6 @@
+*/**/terraform.d
+.DS_Store
+*/**/variables.tf
+*/**/.terraform
+*.tfstate*
+*.bak
