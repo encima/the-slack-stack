@@ -1,0 +1,3 @@
+[submodule "code/app"]
+	path = code/app
+	url = git@github.com:encima/slack-stack-flutter
