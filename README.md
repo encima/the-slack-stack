@@ -10,12 +10,12 @@ Feedback and PRs are welcome as the aim is to explain and demonstrate the follow
 - Designing and scaling your infrastructure
 - The functions of different Open Source Databases/Softwares:
   - PostgreSQL
-  - ElasticSearch
+  - OpenSearch
   - Redis
   - Kafka
   - M3/InfluxDB
 - Automating and simplifying deployment in a cloud agnostic way (using Aiven.io)
 
 #### Copyrights: 
-- Image assets have been included for offline viewing. I do not own the rights to these images and original sources will be linked. Please open a PR if you would like the image removed
+- Image assets have been included for offline viewing. I do not own the rights to these images and original sources will be linked. Please open an issue if you would like the image removed
 - This is **not** the tech stack for Slack and has been created without their consent. No infringement is intended, this is merely to be used as an example.
